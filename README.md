@@ -7,4 +7,3 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 
 ## Basic 
 1. [Program to check if the given number is even or odd](/Basic/odd_even.c)
-<a href ="/Basic/odd_even.c">1. Program to check if the given number is even or odd</a>
