@@ -1,2 +1,3 @@
 # Coding-Question-for-Interview-
-C PROGRAMMING - CODING QUESTIONS FOR INTERVIEWS
+# C PROGRAMMING - CODING QUESTIONS FOR INTERVIEWS
+Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing for coding round for interviews,then this repo with help you get through with basics. The List contains the most important coding questions for Amcat, Cocubes, Elitmus, TCS Ninja, Infosys, Capgemini, Cognizant, Wipro and many more...
