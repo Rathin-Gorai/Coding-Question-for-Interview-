@@ -8,3 +8,8 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 ## Basics 
 1. [Program to check if the given number is even or odd](/Basic/odd_even.c)
 2. [Program to check if the given number is a Prime numbe](/Basic/prime_number.c)
+3. [Program to check if the given number is Palindrome](/Basic/Palindrome.c)
+4. [Program to check if the given number is Perfect number](/Basic/perfact_number.c)
+5. [Find the factorial of a number](/Basic/factorial.c)
+6. [Program to swap two numbers](/Basic/swap.c)
+7. []
