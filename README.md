@@ -12,4 +12,15 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 4. [Program to check if the given number is Perfect number](/Basic/perfact_number.c)
 5. [Find the factorial of a number](/Basic/factorial.c)
 6. [Program to swap two numbers](/Basic/swap.c)
-7. []
+7. [Write a program that converts Centigrade to Fahrenheit.](/Basic/temprature.c)
+8. [Write a program that prints the perimeter of a rectangle.](/Basic/Perimeter_ractangle.c)
+9. [Program to convert Hour to Minutes.](/Basic/hour_to_minute.c)
+10. [Program to check whether a given number is positive or negative.](/Basic/check_number.c)
+11. [Program to check canditate eligible for voting](/Basic/voting.c)
+12. [Program to find the maximum of three numbers.](/Basic/largest.c)
+13. [Write a C program to check whether an alphabet is a vowel or consonant.](/Basic/)
+14. [Program in C to display the multiplication table of a given integer.](/Basic/table.c)
+15. [Display the n terms of odd natural number and their sum .](/Basic/sum_odd.c)
+16. [C to find the square of any number using the function.](/Basic/function.c)
+17. [Program in C to show the sum, subtract, multiplication,div of two number using function.](/Basic/calculate.c)
+18. []
