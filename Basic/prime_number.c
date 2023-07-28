@@ -16,7 +16,7 @@ int main()
     }
     if(num==1)
     {
-        printf("Numer is Nither prime not Composite !");
+        printf("Number is Nither prime nor Composite !");
     }
     else if(flag==1)
     {
