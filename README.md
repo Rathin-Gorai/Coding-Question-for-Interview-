@@ -23,8 +23,11 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 15. [Display the n terms of odd natural number and their sum .](/Basic/sum_odd.c)
 16. [C to find the square of any number using the function.](/Basic/squre.c)
 17. [Program in C to show the sum, subtract, multiplication,div of two number using function.](/Basic/calculate.c)
-18. []
 
+## Array
+1. [n number of values in an array and display it in reverse order.](/Array/Reverse.c)
+2. [Program in C to copy the elements of one array into another array](/Array/copy.c)
+3. [Write a program in C to merge two arrays of same size sorted in descending order.](/Array/marge.c)
 
 
 
