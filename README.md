@@ -33,7 +33,7 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 
 
 ## Pattern Programming 
-1. [Print a ractangle or squre using * .](/Pattern/rec.c)
+1. [Print a ractangle or squre using * .](/Pattern/rac.c)
 
 
 ## How to run the programs
