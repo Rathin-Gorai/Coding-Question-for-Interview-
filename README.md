@@ -28,11 +28,15 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 1. [n number of values in an array and display it in reverse order.](/Array/Reverse.c)
 2. [Program in C to copy the elements of one array into another array](/Array/copy.c)
 3. [Write a program in C to merge two arrays of same size sorted in descending order.](/Array/marge.c)
+4. [Write a program to find the sum of all elements of the array.](/Array/sum.c)
+5. [Write a program to find the maximum and minimum element in an array.](/Array/maxmin.c)
 
 
+## Pattern Programming 
+1. [Print a ractangle or squre using * .](/Pattern/rec.c)
 
 
-## How to run the programes
+## How to run the programs
 
 After download Mingw and setup go through these steps.
 
