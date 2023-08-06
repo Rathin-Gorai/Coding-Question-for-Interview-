@@ -34,6 +34,9 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 
 ## Pattern Programming 
 1. [Print a ractangle or squre using * .](/Pattern/rac.c)
+2. [Print a ractangle using numbers.](/Pattern/racnum.c)
+3. [Print a squre box contain patern. ](Pattern/pat.c)
+4. 
 
 
 ## How to run the programs
