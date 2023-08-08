@@ -19,11 +19,11 @@ int main()
         {
             if(i== 0 || i== num-1 ||j==0 || j==num-1)
             {
-                printf("*");
+                printf("* ");
             } 
             else 
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");

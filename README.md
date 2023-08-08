@@ -7,7 +7,7 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 
 ## Basics 
 1. [Program to check if the given number is even or odd](/Basic/odd_even.c)
-2. [Program to check if the given number is a Prime numbe](/Basic/prime_number.c)
+2. [Program to check if the given number is a Prime number](/Basic/prime_number.c)
 3. [Program to check if the given number is Palindrome](/Basic/Palindrome.c)
 4. [Program to check if the given number is Perfect number](/Basic/perfact_number.c)
 5. [Find the factorial of a number](/Basic/factorial.c)
@@ -23,6 +23,11 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 15. [Display the n terms of odd natural number and their sum .](/Basic/sum_odd.c)
 16. [C to find the square of any number using the function.](/Basic/squre.c)
 17. [Program in C to show the sum, subtract, multiplication,div of two number using function.](/Basic/calculate.c)
+18. [Write a program in C to find prime factors of a given integer.](/Basic/primefact.c)
+19. [Write a program in C to add two integer without using arithmetic + operator.]
+20. [Print Hello World without semicolon(;) .](/Basic/hello.c)
+21. [Write a program to reverse an integer in C.](/Basic/rev.c)
+22. [Write a program in C to print the Fibonacci series using iteration.]
 
 ## Array
 1. [n number of values in an array and display it in reverse order.](/Array/Reverse.c)
@@ -30,6 +35,8 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 3. [Write a program in C to merge two arrays of same size sorted in descending order.](/Array/marge.c)
 4. [Write a program to find the sum of all elements of the array.](/Array/sum.c)
 5. [Write a program to find the maximum and minimum element in an array.](/Array/maxmin.c)
+6. [Program to find an element from one dimensional array.](/Array/find.c)
+
 
 
 ## Pattern Programming 
