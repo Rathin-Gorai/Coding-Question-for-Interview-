@@ -24,10 +24,15 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 16. [C to find the square of any number using the function.](/Basic/squre.c)
 17. [Program in C to show the sum, subtract, multiplication,div of two number using function.](/Basic/calculate.c)
 18. [Write a program in C to find prime factors of a given integer.](/Basic/primefact.c)
-19. [Write a program in C to add two integer without using arithmetic + operator.]
+19. [Write a program in C to add two integer without using arithmetic + operator.](/Basic/add.c)
 20. [Print Hello World without semicolon(;) .](/Basic/hello.c)
 21. [Write a program to reverse an integer in C.](/Basic/rev.c)
-22. [Write a program in C to print the Fibonacci series using iteration.]
+22. [Write a program in C to print the Fibonacci series using iteration.](/Basic/fibo.c)
+23. [Write a program in C to find greatest among three integers.](/Basic/max.c)
+24. [C Program to find the Average of numbers with explanations.](/Basic/)
+25. [C Program to calculate factorial using recursion.](/Basic/fatc.c)
+26. [C Program to print Prime Number in a given range.](/Basic/prime.c)
+27. []
 
 ## Array
 1. [n number of values in an array and display it in reverse order.](/Array/Reverse.c)
