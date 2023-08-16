@@ -37,7 +37,9 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 27. [C Program to check given number is Perfect or not.](/Basic/Perfect.c)
 28. [C program to print first n Prime Number.](Basic/nprime.c)
 29. [C program to calculate LCM of given two numbers.](/Basic/LCM.c)
-30. []
+30. [Program to check leap year](/Basic/leap.c)
+31. [Program to calculate the power without using POW function.](/Basic/pow.c)
+32. [Program which will remove any given character from a String.](/Basic/)
 
 ## Array
 
@@ -47,7 +49,7 @@ Coding🔥 is an art, it has to be learnt with heart❤️ If you are preparing 
 4. [Write a program to find the sum of all elements of the array.](/Array/sum.c)
 5. [Write a program to find the maximum and minimum element in an array.](/Array/maxmin.c)
 6. [Program to find an element from one dimensional array.](/Array/find.c)
-7. [Program to delete an element from one dimensional array.]()
+7. [Program to delete an element from one dimensional array.](/Array/delete.c)
 
 ## Pattern Programming
 
